@@ -1,4 +1,4 @@
 # Real-Time-Number-Plate-Recognition
 
-Do as directed in ipynb file
-Go threw Step by Step
+<br />Do as directed in ipynb file
+<br />Go threw Step by Step
